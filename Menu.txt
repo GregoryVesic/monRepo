@@ -7,3 +7,4 @@ Hamburger
 Kebab
 Poulet rôti
 Frites
+Tarte aux pommes
